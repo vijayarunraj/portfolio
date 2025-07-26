@@ -1,15 +1,15 @@
 /* Modern Professional Color Scheme for AI/Automation Portfolio */
 :root {
-    /* Primary Colors - Professional Blue Palette */
-    --primary-dark: #1a365d;
-    --primary-main: #2d5aa0;
-    --primary-light: #4299e1;
-    --primary-lighter: #90cdf4;
+    /* Primary Colors - Professional Red Palette (matching vijayarunraj.com) */
+    --primary-dark: #8b1538;
+    --primary-main: #c3323a;
+    --primary-light: #e74c3c;
+    --primary-lighter: #ff6b6b;
     
-    /* Secondary Colors - Accent Orange/Gold */
-    --secondary-main: #f56500;
-    --secondary-light: #ff8a00;
-    --secondary-lighter: #ffb84d;
+    /* Secondary Colors - Complementary Blue/Teal */
+    --secondary-main: #2c5aa0;
+    --secondary-light: #3498db;
+    --secondary-lighter: #74b9ff;
     
     /* Neutral Colors */
     --neutral-900: #1a202c;
@@ -223,15 +223,9 @@ a:hover {
 }
 
 .logo {
-    width: 40px;
     height: 40px;
-    border-radius: var(--radius-md);
-    background: var(--gradient-primary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: var(--neutral-50);
-    font-weight: 700;
+    width: auto;
+    object-fit: contain;
 }
 
 .nav-menu {
@@ -314,7 +308,7 @@ a:hover {
 }
 
 .highlight {
-    background: linear-gradient(135deg, var(--secondary-main), var(--secondary-light));
+    background: linear-gradient(135deg, var(--primary-main), var(--primary-light));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -570,7 +564,7 @@ a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(45, 90, 160, 0.8);
+    background: rgba(195, 50, 58, 0.8);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -609,7 +603,7 @@ a:hover {
 }
 
 .impact-badge {
-    background: var(--gradient-secondary);
+    background: var(--gradient-primary);
     color: var(--neutral-50);
     padding: var(--spacing-xs) var(--spacing-md);
     border-radius: var(--radius-full);
