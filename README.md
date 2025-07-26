@@ -22,7 +22,7 @@ As a strategic leader and technologist, I bring together **technical depth**, **
 ## 🧰 Technical Skills
 
 - **Agentic AI** – LangChain, HuggingFace, OpenAI API, LangFlow  
-- **RPA & Automation** – UiPath, Power Automate, custom frameworks  
+- **RPA & Automation** – UiPath, Power Automate, Playwright  
 - **Enterprise Tech** – .NET, C#, Node.js, SQL Server, React Native, REST APIs  
 - **Architecture** – Cloud-native pipelines, microservices integration  
 - **Analytics** – Process mining tools, KPI dashboards, AI-powered reporting  
@@ -53,8 +53,7 @@ As a strategic leader and technologist, I bring together **technical depth**, **
 - Delivered **30–50% operational cost savings** via enterprise automation  
 - Shrunk process cycle times by up to **40%** using AI-led workflows  
 - Led transformation programs across healthcare, eCommerce, and fintech  
-- Built internal **RPA training & onboarding programs**  
-- Developed **“OrganicGenie” SaaS**: an AI agent for content marketing analytics  
+- Built internal **RPA training & onboarding programs**   
 </section>
 
 <section>
@@ -64,7 +63,7 @@ As a strategic leader and technologist, I bring together **technical depth**, **
 |----------------------------|--------------------------------------------------|-------------------------------------|
 | **SalesBot Automation**    | CRM/email integration RPA bot                    | 3× faster responses, 15% more leads |
 | **Claim Processor AI**     | Claim validation & classification automation     | Reduced manual errors by 80%        |
-| **OrganicGenie (beta)**    | AI agent for content marketing insights          | Plain‑English daily lead analysis   |
+
 </section>
 
 <section>
