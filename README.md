@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm **Vijay Arunraj**
 
-🚀 *Agentic AI & Automation Practice Lead*  
+🚀 *Agentic AI & Automation Lead*  
 🌐 **[vijayarunraj.com](https://vijayarunraj.com)** | 📬 **[LinkedIn](https://linkedin.com/in/vijayarunraj)** | 🧠 **[Blog: agenticworld.org](https://agenticworld.org)**
 
 ---
