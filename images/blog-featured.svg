@@ -1,0 +1,70 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blogGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a365d;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#2d5aa0;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#4299e1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#90cdf4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="networkGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f56500;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#ff8a00;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#blogGradient)"/>
+  
+  <!-- Network nodes representing AI agents -->
+  <g transform="translate(50, 50)">
+    <!-- Central AI hub -->
+    <circle cx="150" cy="100" r="25" fill="rgba(255,255,255,0.9)" stroke="url(#networkGradient)" stroke-width="3"/>
+    <text x="150" y="107" font-family="Inter, sans-serif" font-size="14" font-weight="600" text-anchor="middle" fill="#2d5aa0">AI</text>
+    
+    <!-- Agent nodes -->
+    <circle cx="80" cy="60" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="80" y="65" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A1</text>
+    
+    <circle cx="220" cy="60" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="220" y="65" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A2</text>
+    
+    <circle cx="50" cy="130" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="50" y="135" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A3</text>
+    
+    <circle cx="250" cy="130" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="250" y="135" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A4</text>
+    
+    <circle cx="100" cy="170" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="100" y="175" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A5</text>
+    
+    <circle cx="200" cy="170" r="15" fill="rgba(255,255,255,0.8)" stroke="#f56500" stroke-width="2"/>
+    <text x="200" y="175" font-family="Inter, sans-serif" font-size="10" font-weight="500" text-anchor="middle" fill="#f56500">A6</text>
+    
+    <!-- Connection lines -->
+    <line x1="150" y1="100" x2="80" y2="60" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="150" y1="100" x2="220" y2="60" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="150" y1="100" x2="50" y2="130" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="150" y1="100" x2="250" y2="130" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="150" y1="100" x2="100" y2="170" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    <line x1="150" y1="100" x2="200" y2="170" stroke="rgba(255,255,255,0.6)" stroke-width="2"/>
+    
+    <!-- Data flow indicators -->
+    <circle cx="115" cy="80" r="3" fill="#ff8a00">
+      <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="185" cy="80" r="3" fill="#ff8a00">
+      <animate attributeName="r" values="3;6;3" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    
+    <circle cx="100" cy="135" r="3" fill="#ff8a00">
+      <animate attributeName="r" values="3;6;3" dur="2s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Future of Work text -->
+  <text x="200" y="250" font-family="Inter, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="white">The Future of Work</text>
+  <text x="200" y="270" font-family="Inter, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="rgba(255,255,255,0.8)">Agentic AI • Automation • Productivity</text>
+  <text x="200" y="285" font-family="Inter, sans-serif" font-size="12" font-weight="300" text-anchor="middle" fill="rgba(255,255,255,0.6)">agenticworld.org</text>
+</svg>
