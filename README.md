@@ -3,21 +3,6 @@ title: Vijay Arunraj – AI & Automation Leader
 layout: default
 ---
 
-<style>
-:root {
-  --brand-blue: #0056b3;
-  --brand-light: #e6f2ff;
-  --brand-dark: #003366;
-}
-h1, h2, h3 { color: var(--brand-blue); }
-a { color: var(--brand-blue); text-decoration: none; }
-a:hover { color: var(--brand-dark); }
-section { background-color: var(--brand-light); padding: 1rem; margin-bottom: 1.5rem; border-radius: 8px;}
-.table-snapshot { width: 100%; border-collapse: collapse; }
-.table-snapshot th, .table-snapshot td { padding: 0.5rem; text-align: left; border-bottom: 1px solid var(--brand-blue);}
-blockquote { border-left: 4px solid var(--brand-blue); padding-left: 1rem; color: var(--brand-dark); }
-</style>
-
 # 👋 Hello, I'm **Vijay Arunraj**
 
 🚀 *Agentic AI & Automation Practice Lead*  
