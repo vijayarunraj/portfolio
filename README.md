@@ -1,7 +1,4 @@
----
-title: Vijay Arunraj – AI & Automation Leader
-layout: default
----
+
 
 # 👋 Hello, I'm **Vijay Arunraj**
 
