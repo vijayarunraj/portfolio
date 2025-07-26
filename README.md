@@ -1,0 +1,119 @@
+---
+title: Vijay Arunraj – AI & Automation Leader
+layout: default
+---
+
+<style>
+:root {
+  --brand-blue: #0056b3;
+  --brand-light: #e6f2ff;
+  --brand-dark: #003366;
+}
+h1, h2, h3 { color: var(--brand-blue); }
+a { color: var(--brand-blue); text-decoration: none; }
+a:hover { color: var(--brand-dark); }
+section { background-color: var(--brand-light); padding: 1rem; margin-bottom: 1.5rem; border-radius: 8px;}
+.table-snapshot { width: 100%; border-collapse: collapse; }
+.table-snapshot th, .table-snapshot td { padding: 0.5rem; text-align: left; border-bottom: 1px solid var(--brand-blue);}
+blockquote { border-left: 4px solid var(--brand-blue); padding-left: 1rem; color: var(--brand-dark); }
+</style>
+
+# 👋 Hello, I'm **Vijay Arunraj**
+
+🚀 *Agentic AI & Automation Practice Lead*  
+🌐 **[vijayarunraj.com](https://vijayarunraj.com)** | 📬 **[LinkedIn](https://linkedin.com/in/vijayarunraj)** | 🧠 **[Blog: agenticworld.org](https://agenticworld.org)**
+
+---
+
+<section>
+## 🧠 About Me
+
+I specialize in **Agentic AI**, **Robotic Process Automation**, and **Enterprise Digital Transformation**. With **15+ years** of experience in delivering value through automation, I empower businesses to scale efficiently and sustainably.
+
+As a strategic leader and technologist, I bring together **technical depth**, **functional insight**, and **people-first leadership** to build and scale impactful automation systems.
+</section>
+
+<section>
+## 🧰 Technical Skills
+
+- **Agentic AI** – LangChain, HuggingFace, OpenAI API, LangFlow  
+- **RPA & Automation** – UiPath, Power Automate, custom frameworks  
+- **Enterprise Tech** – .NET, C#, Node.js, SQL Server, React Native, REST APIs  
+- **Architecture** – Cloud-native pipelines, microservices integration  
+- **Analytics** – Process mining tools, KPI dashboards, AI-powered reporting  
+</section>
+
+<section>
+## ⚙️ Functional Skills
+
+- Business Process Automation (BPA) & workflow optimization  
+- KPI-driven operational intelligence  
+- Sales process automation and customer engagement  
+- Cross-functional stakeholder collaboration across teams and geographies  
+</section>
+
+<section>
+## 🧭 Leadership Skills
+
+- Establishing and leading CoEs in automation and AI  
+- Designing and executing strategic automation roadmaps  
+- AI adoption, change management, and stakeholder communication  
+- Coaching and mentoring high‑performance teams  
+- Presenting automated transformation results to leadership and boards  
+</section>
+
+<section>
+## 🏆 Key Achievements
+
+- Delivered **30–50% operational cost savings** via enterprise automation  
+- Shrunk process cycle times by up to **40%** using AI-led workflows  
+- Led transformation programs across healthcare, eCommerce, and fintech  
+- Built internal **RPA training & onboarding programs**  
+- Developed **“OrganicGenie” SaaS**: an AI agent for content marketing analytics  
+</section>
+
+<section>
+## 📂 Featured Projects
+
+| Project                     | Description                                      | Impact                              |
+|----------------------------|--------------------------------------------------|-------------------------------------|
+| **SalesBot Automation**    | CRM/email integration RPA bot                    | 3× faster responses, 15% more leads |
+| **Claim Processor AI**     | Claim validation & classification automation     | Reduced manual errors by 80%        |
+| **OrganicGenie (beta)**    | AI agent for content marketing insights          | Plain‑English daily lead analysis   |
+</section>
+
+<section>
+## 📝 Recent Blog
+
+📌 **[Agentic Automation is the Future of Work](https://agenticworld.org)**  
+Explore how Agentic AI is revolutionizing productivity and autonomy.
+</section>
+
+<section>
+## 📫 Let’s Connect
+
+- 🌐 **[vijayarunraj.com](https://vijayarunraj.com)**  
+- ✉️ **Email:** vijay.arunraj@example.com *(replace with your real email)*  
+- 💼 **LinkedIn:** [linkedin.com/in/vijayarunraj](https://linkedin.com/in/vijayarunraj)  
+- 🧠 **Blog:** [agenticworld.org](https://agenticworld.org)
+</section>
+
+<section>
+## 📌 Summary Snapshot
+
+```text
+Tech        | RPA, AI Agents, .NET, Python, React Native
+Functional  | Process Automation, KPI Intelligence, CRM/Fx Ops
+Leadership  | AI Strategy, Automation Initiative Leadership, Team Coaching
+```
+</section>
+
+<blockquote>
+“Automation should not replace humans; it should **unleash their potential**.”  
+– Vijay Arunraj
+</blockquote>
+
+---
+
+© 2025 Vijay Arunraj. Built with 💡 and open source.<br>
+Design inspired by **vijayarunraj.com**
