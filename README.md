@@ -10,7 +10,7 @@
 <section>
 ## 🧠 About Me
 
-I specialize in **Agentic AI**, **Robotic Process Automation**, and **Enterprise Digital Transformation**. With **15+ years** of experience in delivering value through automation, I empower businesses to scale efficiently and sustainably.
+I specialize in **Agentic AI**, **Process Automation**, and **Digital Transformation** services for Enterprises. With **15+ years** of experience in delivering value through automation & technologies, I empower businesses to scale efficiently and sustainably.
 
 As a strategic leader and technologist, I bring together **technical depth**, **functional insight**, and **people-first leadership** to build and scale impactful automation systems.
 </section>
